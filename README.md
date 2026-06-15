@@ -12,8 +12,7 @@ a CNN "simulator" that learned to predict a geometry's absorbance from its image
 the simulator sits behind the generator and grades it on physics, not just on whether the shapes
 look real. That's the part that makes the generated designs actually mean something.
 
-This was a 2024 NSF REU project at the University of North Texas. Work and credit shared with
-Travis Pota-Birkhoff and Abhiram Reddy Pudi, advised by Dmytro Shymkiv and Dr. Yuzhe Xiao.
+This was a 2025 NSF REU project at the University of North Texas. Advised by Dmytro Shymkiv and Dr. Yuzhe Xiao.
 
 ![Project poster](figures/poster.png)
 
